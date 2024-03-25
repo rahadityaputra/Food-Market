@@ -5,6 +5,10 @@ Food-Market adalah sebuah platform web store yang memungkinkan pengguna untuk me
 ## Fitur Utama
 - Daftar belanjaan yang dinamis
 - Keranjang belanja yang dapat disimpan
+## Teknologi
+- Html
+- Vanilla JavaScript
+- Bootstraps Css
 
 ## Instalasi
 1. Clone repositori ini ke dalam direktori lokal Anda:
